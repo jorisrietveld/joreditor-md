@@ -6,7 +6,7 @@ create a tool for personal use, I mean there are way to little good markdown edi
 an editor that would introduce random typos in my text, so I could blame my editor for having dys... disleksia.... dyslexia
 (who came up with that word) and feel better about myself.
 
-- #### :information_source: If there are any typos in the following documentation it probably means that the editor is working
+> #### :information_source: If there are any typos in the following documentation it probably means that the editor is working
 
 The name of the application was partly inspired by my first name in combination with its main purpose and to finish it of, the
 last bit is a abbreviation of the `programming language` that it will be able to edit.
